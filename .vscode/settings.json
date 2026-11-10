@@ -1,0 +1,4 @@
+{
+  "java.project.import.excludeFolders": ["android"],
+  "java.import.gradle.enabled": false
+}
